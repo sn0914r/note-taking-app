@@ -21,7 +21,7 @@ const newTasks=
             <form id="form">
                 <input type="text" id="headingInput" placeholder="Write title here....">
                 <div class="err"></div>
-                <input type="date" id="dateInput" placeholder="set date">
+               <!-- <input type="date" id="dateInput"> -->
                 <button type="submit" id="submit">save</button>
                 <button type="button" id='close_btn'>close</button>
                 <div id="textarea">
